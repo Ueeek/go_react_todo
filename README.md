@@ -1,3 +1,5 @@
+# Cloned from https://github.com/schadokar/go-to-do-app/
+
 # :memo: Go To Do App
 
 This is a to-do list application. The complete tutorial is published on [my blog](https://schadokar.dev/posts/build-a-todo-app-in-golang-mongodb-and-react/).  
