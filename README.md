@@ -1,4 +1,5 @@
-# Cloned from https://github.com/schadokar/go-to-do-app/
+# Clopied from https://github.com/schadokar/go-to-do-app/
+* add some api and modify react code
 
 # :memo: Go To Do App
 
